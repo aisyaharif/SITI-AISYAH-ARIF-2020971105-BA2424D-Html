@@ -1,0 +1,44 @@
+body
+	{
+		background-color: #463A41;
+	}
+
+a:link, a:visited
+	{
+		color: #8CABA8;
+		background-color:#c8acbc;
+		text-decoration: underline;
+		padding: 10px;
+		text-align: center;
+		display: inline-block;
+		font-family: verdana;
+	}
+
+a:hover
+{
+	color: #black;
+	background-color: pink;
+	text-decoration: none;
+}
+
+a:active
+{
+	color: #seagreen;
+	background-color: #C99789;
+	text-decoration: underline;
+}
+
+
+table, th, td {
+  border: 1px gainsboro;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
